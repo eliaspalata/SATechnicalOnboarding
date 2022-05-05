@@ -22,6 +22,10 @@ main {
     margin-top: .3em;
 }
 
+.mail .a{
+    text-decoration: none;
+}
+
 h1 {
     color: navy;
     margin: 0em;
@@ -42,6 +46,7 @@ h3 {
 
 ul {
     margin: 0em 0em .3em 0em;
-    list-style-type: square;
+    list-style-type: none;
     padding-left: 1.4em;
+    text-decoration: none;
 }
